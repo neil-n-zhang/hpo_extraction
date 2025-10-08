@@ -1,0 +1,402 @@
+[
+    {
+        "id": "HP:0003752",
+        "label": "Episodic flaccid weakness"
+    },
+    {
+        "id": "HP:0003324",
+        "label": "Generalized muscle weakness"
+    },
+    {
+        "id": "HP:0003700",
+        "label": "Generalized amyotrophy"
+    },
+    {
+        "id": "HP:0003458",
+        "label": "EMG: myopathic abnormalities"
+    },
+    {
+        "id": "HP:0009055",
+        "label": "Generalized limb muscle atrophy"
+    },
+    {
+        "id": "HP:0009786",
+        "label": "Aplasia/Hypoplasia of the musculature of the thigh"
+    },
+    {
+        "id": "HP:0009128",
+        "label": "Aplasia/Hypoplasia involving the musculature of the extremities"
+    },
+    {
+        "id": "HP:0010550",
+        "label": "Paraplegia"
+    },
+    {
+        "id": "HP:0011099",
+        "label": "Spastic hemiparesis"
+    },
+    {
+        "id": "HP:0012898",
+        "label": "Abnormal lower-limb motor evoked potentials"
+    },
+    {
+        "id": "HP:0003011",
+        "label": "Abnormality of the musculature"
+    },
+    {
+        "id": "HP:0003693",
+        "label": "Distal amyotrophy"
+    },
+    {
+        "id": "HP:0008994",
+        "label": "Proximal muscle weakness in lower limbs"
+    },
+    {
+        "id": "HP:0031959",
+        "label": "Leg dystonia"
+    },
+    {
+        "id": "HP:0007002",
+        "label": "Motor axonal neuropathy"
+    },
+    {
+        "id": "HP:0003200",
+        "label": "Ragged-red muscle fibers"
+    },
+    {
+        "id": "HP:0009127",
+        "label": "Abnormality of the musculature of the limbs"
+    },
+    {
+        "id": "HP:0001467",
+        "label": "Aplasia/Hypoplasia involving the musculature of the upper limbs"
+    },
+    {
+        "id": "HP:0008948",
+        "label": "Proximal upper limb amyotrophy"
+    },
+    {
+        "id": "HP:0001264",
+        "label": "Spastic diplegia"
+    },
+    {
+        "id": "HP:0011468",
+        "label": "Facial tics"
+    },
+    {
+        "id": "HP:0002460",
+        "label": "Distal muscle weakness"
+    },
+    {
+        "id": "HP:0003202",
+        "label": "Skeletal muscle atrophy"
+    },
+    {
+        "id": "HP:0007010",
+        "label": "Poor fine motor coordination"
+    },
+    {
+        "id": "HP:0001332",
+        "label": "Dystonia"
+    },
+    {
+        "id": "HP:0002071",
+        "label": "Abnormality of extrapyramidal motor function"
+    },
+    {
+        "id": "HP:0007126",
+        "label": "Proximal amyotrophy"
+    },
+    {
+        "id": "HP:0008956",
+        "label": "Proximal lower limb amyotrophy"
+    },
+    {
+        "id": "HP:0003737",
+        "label": "Mitochondrial myopathy"
+    },
+    {
+        "id": "HP:0002061",
+        "label": "Lower limb spasticity"
+    },
+    {
+        "id": "HP:0007340",
+        "label": "Lower limb muscle weakness"
+    },
+    {
+        "id": "HP:0003445",
+        "label": "EMG: neuropathic changes"
+    },
+    {
+        "id": "HP:0009028",
+        "label": "Generalized weakness of limb muscles"
+    },
+    {
+        "id": "HP:0002493",
+        "label": "Upper motor neuron dysfunction"
+    },
+    {
+        "id": "HP:0002366",
+        "label": "Abnormal lower motor neuron morphology"
+    },
+    {
+        "id": "HP:0032121",
+        "label": "Froment sign"
+    },
+    {
+        "id": "HP:0001258",
+        "label": "Spastic paraplegia"
+    },
+    {
+        "id": "HP:0012407",
+        "label": "Scissor gait"
+    },
+    {
+        "id": "HP:0002313",
+        "label": "Spastic paraparesis"
+    },
+    {
+        "id": "HP:0006785",
+        "label": "Limb-girdle muscular dystrophy"
+    },
+    {
+        "id": "HP:0007269",
+        "label": "Spinal muscular atrophy"
+    },
+    {
+        "id": "HP:0008997",
+        "label": "Proximal muscle weakness in upper limbs"
+    },
+    {
+        "id": "HP:0003701",
+        "label": "Proximal muscle weakness"
+    },
+    {
+        "id": "HP:0012897",
+        "label": "Abnormal upper-limb motor evoked potentials"
+    },
+    {
+        "id": "HP:0002385",
+        "label": "Paraparesis"
+    },
+    {
+        "id": "HP:0012194",
+        "label": "Episodic hemiplegia"
+    },
+    {
+        "id": "HP:0002301",
+        "label": "Hemiplegia"
+    },
+    {
+        "id": "HP:0011805",
+        "label": "Abnormal skeletal muscle morphology"
+    },
+    {
+        "id": "HP:0033685",
+        "label": "Fiber type grouping"
+    },
+    {
+        "id": "HP:0001460",
+        "label": "Aplasia/Hypoplasia involving the skeletal musculature"
+    },
+    {
+        "id": "HP:0002518",
+        "label": "Abnormal periventricular white matter morphology"
+    },
+    {
+        "id": "HP:0430019",
+        "label": "Abnormality of muscle of facial expression"
+    },
+    {
+        "id": "HP:0010286",
+        "label": "Abnormal salivary gland morphology"
+    },
+    {
+        "id": "HP:0003484",
+        "label": "Upper limb muscle weakness"
+    },
+    {
+        "id": "HP:0010318",
+        "label": "Aplasia/Hypoplasia of the abdominal wall musculature"
+    },
+    {
+        "id": "HP:0200072",
+        "label": "Episodic quadriplegia"
+    },
+    {
+        "id": "HP:0003789",
+        "label": "Minicore myopathy"
+    },
+    {
+        "id": "HP:0001281",
+        "label": "Tetany"
+    },
+    {
+        "id": "HP:0032721",
+        "label": "Focal motor seizure with paresis/paralysis"
+    },
+    {
+        "id": "HP:0003325",
+        "label": "Limb-girdle muscle weakness"
+    },
+    {
+        "id": "HP:0009129",
+        "label": "Upper limb amyotrophy"
+    },
+    {
+        "id": "HP:0030194",
+        "label": "Fatigable weakness of speech muscles"
+    },
+    {
+        "id": "HP:0002451",
+        "label": "Limb dystonia"
+    },
+    {
+        "id": "HP:0007015",
+        "label": "Poor gross motor coordination"
+    },
+    {
+        "id": "HP:0003130",
+        "label": "Abnormal peripheral myelination"
+    },
+    {
+        "id": "HP:0000597",
+        "label": "Ophthalmoparesis"
+    },
+    {
+        "id": "HP:0003444",
+        "label": "EMG: chronic denervation signs"
+    },
+    {
+        "id": "HP:0009016",
+        "label": "Upper limb muscle hypoplasia"
+    },
+    {
+        "id": "HP:0002936",
+        "label": "Distal sensory impairment"
+    },
+    {
+        "id": "HP:0009063",
+        "label": "Progressive distal muscle weakness"
+    },
+    {
+        "id": "HP:0003634",
+        "label": "Amyoplasia"
+    },
+    {
+        "id": "HP:0001464",
+        "label": "Aplasia/Hypoplasia involving the shoulder musculature"
+    },
+    {
+        "id": "HP:0011964",
+        "label": "Intermittent painful muscle spasms"
+    },
+    {
+        "id": "HP:0003798",
+        "label": "Nemaline bodies"
+    },
+    {
+        "id": "HP:0001468",
+        "label": "Aplasia/Hypoplasia involving the musculature of the upper arm"
+    },
+    {
+        "id": "HP:0430015",
+        "label": "Abnormal morphology of musculature of pharynx"
+    },
+    {
+        "id": "HP:0007149",
+        "label": "Distal upper limb amyotrophy"
+    },
+    {
+        "id": "HP:0003198",
+        "label": "Myopathy"
+    },
+    {
+        "id": "HP:0003398",
+        "label": "Abnormal synaptic transmission at the neuromuscular junction"
+    },
+    {
+        "id": "HP:0001471",
+        "label": "Aplasia/Hypoplasia of the musculature of the pelvis"
+    },
+    {
+        "id": "HP:0001441",
+        "label": "Abnormality thigh musculature morphology"
+    },
+    {
+        "id": "HP:0002510",
+        "label": "Spastic tetraplegia"
+    },
+    {
+        "id": "HP:0410169",
+        "label": "Abnormal morphology of the shoulder musculature"
+    },
+    {
+        "id": "HP:0030114",
+        "label": "Absent muscle fiber dysferlin"
+    },
+    {
+        "id": "HP:0001251",
+        "label": "Ataxia"
+    },
+    {
+        "id": "HP:0009878",
+        "label": "Cerebellar ataxia associated with quadrupedal gait"
+    },
+    {
+        "id": "HP:0030096",
+        "label": "Abnormal muscle fiber dystrophin expression"
+    },
+    {
+        "id": "HP:0001257",
+        "label": "Spasticity"
+    },
+    {
+        "id": "HP:0003621",
+        "label": "Juvenile onset"
+    },
+    {
+        "id": "HP:0030192",
+        "label": "Fatigable weakness of bulbar muscles"
+    },
+    {
+        "id": "HP:6000305",
+        "label": "Proximal to distal progression"
+    },
+    {
+        "id": "HP:0030226",
+        "label": "Abnormal muscle fiber myotilin"
+    },
+    {
+        "id": "HP:0006959",
+        "label": "Proximal spinal muscular atrophy"
+    },
+    {
+        "id": "HP:0003730",
+        "label": "EMG: myotonic runs"
+    },
+    {
+        "id": "HP:0010628",
+        "label": "Facial palsy"
+    },
+    {
+        "id": "HP:0008955",
+        "label": "Progressive distal muscular atrophy"
+    },
+    {
+        "id": "HP:0008936",
+        "label": "Axial hypotonia"
+    },
+    {
+        "id": "HP:0003768",
+        "label": "Periodic paralysis"
+    },
+    {
+        "id": "HP:0003376",
+        "label": "Steppage gait"
+    },
+    {
+        "id": "HP:0034353",
+        "label": "Appendicular spasticity"
+    }
+]
